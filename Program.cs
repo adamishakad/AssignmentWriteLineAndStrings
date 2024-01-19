@@ -65,6 +65,31 @@ namespace AssignmentWriteLineAndStrings
             Console.WriteLine("Whoa, whoa, whoa...What was that? She hit that! I saw that with my own eyes!");
 
             Console.WriteLine();
+            Console.WriteLine("Hey, buddy. Let me explain something to you.");
+
+            Console.WriteLine();
+            Console.WriteLine("Ya see that little tin spaceship? You see how it’s not knocked over? Do you know what that means, professor?");
+
+            Console.WriteLine();
+            Console.WriteLine("It means you DON’T GET THE UNICORN! Someone’s got a frowny face. Better luck next time!");
+
+            Console.WriteLine("Okay, my turn.");
+
+            Console.WriteLine();
+            Console.WriteLine("Knocked over.");
+
+            Console.WriteLine();
+            Console.WriteLine("IT’S SO FLUFFY!");
+
+            Console.WriteLine();
+            Console.WriteLine("That was awesome!");
+
+            Console.WriteLine();
+            Console.WriteLine("You blew up the whole thing!");
+
+            Console.WriteLine();
+            Console.WriteLine("Let’s go destroy another game!");
+            
 
         }
     }
