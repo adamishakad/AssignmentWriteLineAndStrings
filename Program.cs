@@ -47,6 +47,24 @@ namespace AssignmentWriteLineAndStrings
             Console.WriteLine("Yay!");
 
             Console.WriteLine(MARGOUpper);
+            Console.WriteLine("Wait!");
+
+            Console.WriteLine(EDITHUpper);
+            Console.WriteLine("Ah come on. One more time.");
+
+            Console.WriteLine(AGNESUpper);
+            Console.WriteLine("Just one more! I accidentally closed my eyes!");
+
+            Console.WriteLine(AGNESUpper);
+            Console.WriteLine("I hit it, I hit it! Did you see that? I hit it!");
+
+            Console.WriteLine(EDITHUpper);
+            Console.WriteLine("Awww.");
+
+            Console.WriteLine(GRUUpper);
+            Console.WriteLine("Whoa, whoa, whoa...What was that? She hit that! I saw that with my own eyes!");
+
+            Console.WriteLine();
 
         }
     }
